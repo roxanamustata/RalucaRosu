@@ -226,6 +226,9 @@ input, select, textarea {
 .turqoise{
 	color: #4acaa8;
 }
+.larger{
+	width: 850px;
+}
 
 	.align-left {
 		text-align: left;
